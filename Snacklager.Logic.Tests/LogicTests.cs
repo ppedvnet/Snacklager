@@ -1,9 +1,7 @@
-﻿using System;
-using System.Security.Principal;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Snacklager.Data;
-using Snacklager.Data.Enums;
 using Snacklager.Logic.Contracts;
+using Snacklager.Logic.Enums;
 
 namespace Snacklager.Logic.Tests
 {

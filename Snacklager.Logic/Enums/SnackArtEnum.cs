@@ -1,4 +1,4 @@
-﻿namespace Snacklager.Data.Enums
+﻿namespace Snacklager.Logic.Enums
 {
     public enum SnackArtEnum
     {

@@ -50,7 +50,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entity.cs" />
-    <Compile Include="Enums\SnackArtEnum.cs" />
     <Compile Include="Lager.cs" />
     <Compile Include="Lagerhaltung.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -62,6 +61,9 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sql\CreateDb.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
